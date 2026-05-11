@@ -62,10 +62,10 @@ news-explorer/
 
 ## 👥 Contributors
 
-This project was developed collaboratively by 3 students:
+This project was developed collaboratively by:
 
-- Mehmet Tuncer
-- Fatih Buğra Yılmazgil
-- Emre Garip
+- 👤 **Mehmet Tuncer** - [GitHub Profile](https://github.com/mehmet-kullanici-adi)
+- 👤 **Fatih Buğra Yılmazgil** - [GitHub Profile](https://github.com/fatih-kullanici-adi)
+- 👤 **Emre Garip** - [GitHub Profile](https://github.com/emre-kullanici-adi)
 
 ---
