@@ -48,3 +48,24 @@ news-explorer/
 ├── backend.py
 ├── README.md
 └── requirements.txt
+```
+---
+
+## How It Works
+
+-The user selects a news source.
+-RSS feeds are fetched from selected websites.
+-Latest news headlines are displayed in the application.
+-Clicking the arrow button opens the article in the web browser.
+
+---
+
+## Contributors
+
+This project was developed collaboratively by 3 students:
+
+-Mehmet Tuncer
+-Fatih Buğra Yılmazgil
+-Emre Garip
+
+---
