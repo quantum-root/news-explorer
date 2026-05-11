@@ -18,3 +18,30 @@ It fetches the latest news from different RSS sources and allows users to read h
 - Simple and user-friendly design
 
 ---
+
+## Technologies Used
+
+- Python
+- Flet
+- Requests
+- BeautifulSoup4
+
+---
+
+## Supported News Sources
+
+- BBC
+- KARAR
+- Independent
+
+---
+
+## Project Structure
+
+```bash
+news-explorer/
+│
+├── frontend.py
+├── backend.py
+├── README.md
+└── requirements.txt
