@@ -4,7 +4,7 @@ import backend
 def main(page: ft.Page):
     page.title = "News Explorer"
     page.window.width = 500
-    page.window.height = 
+    page.window.height = 500
     page.scroll = "auto"
     page.theme_mode = ft.ThemeMode.DARK
     page.window_center()
