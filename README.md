@@ -31,7 +31,7 @@ It fetches the latest news from different RSS sources and allows users to read h
 
 ---
 
-## Supported News Sources
+## 🌍 Supported News Sources
 
 - BBC
 - KARAR
@@ -51,7 +51,7 @@ news-explorer/
 ```
 ---
 
-## How It Works
+## ⚙️ How It Works
 
 - The user selects a news source.
 - RSS feeds are fetched from selected websites.
@@ -60,7 +60,7 @@ news-explorer/
 
 ---
 
-## Contributors
+## 👥 Contributors
 
 This project was developed collaboratively by 3 students:
 
