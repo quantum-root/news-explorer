@@ -1,7 +1,10 @@
-# news-explorer
+# News Explorer
+
 A Python-based desktop app that fetches news from multiple RSS sources and displays them in a modern UI.
 
-# News Explorer
+---
+
+## Description
 
 News Explorer is a desktop news application developed with Python and Flet.  
 It fetches the latest news from different RSS sources and allows users to read headlines and open articles directly in their web browser.
