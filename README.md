@@ -65,7 +65,7 @@ news-explorer/
 This project was developed collaboratively by:
 
 - 👤 **Mehmet Tuncer** - [GitHub Profile](https://github.com/mehmet-kullanici-adi)
-- 👤 **Fatih Buğra Yılmazgil** - [GitHub Profile](https://github.com/fatih-kullanici-adi)
-- 👤 **Emre Garip** - [GitHub Profile](https://github.com/emre-kullanici-adi)
+- 👤 **Fatih Buğra Yılmazgil** - [GitHub Profile](https://github.com/quantum-root)
+- 👤 **Emre Garip** - [GitHub Profile](https://github.com/emregarip?tab=overview&from=2026-05-01&to=2026-05-11)
 
 ---
