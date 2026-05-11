@@ -53,10 +53,10 @@ news-explorer/
 
 ## How It Works
 
--The user selects a news source.
--RSS feeds are fetched from selected websites.
--Latest news headlines are displayed in the application.
--Clicking the arrow button opens the article in the web browser.
+- The user selects a news source.
+- RSS feeds are fetched from selected websites.
+- Latest news headlines are displayed in the application.
+- Clicking the arrow button opens the article in the web browser.
 
 ---
 
