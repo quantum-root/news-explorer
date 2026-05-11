@@ -64,8 +64,8 @@ news-explorer/
 
 This project was developed collaboratively by 3 students:
 
--Mehmet Tuncer
--Fatih Buğra Yılmazgil
--Emre Garip
+- Mehmet Tuncer
+- Fatih Buğra Yılmazgil
+- Emre Garip
 
 ---
